@@ -1,7 +1,7 @@
 For Ubuntu Linux
 
 to run SchedulerApp.jar: 
-  - clone this repo
+  - clone this repo or download as zip
   - navigate to folder container SchedulerApp.jar
   - run following command in terminal "java -jar SchedulerApp.jar"
 
